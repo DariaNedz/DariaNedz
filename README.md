@@ -6,10 +6,10 @@ I develop mobile applications in C# using .NET MAUI as part of the A-Sys system 
 
 ## Main Projects
 
-# ArchitectSystem (A-Sys Core) 
+### ArchitectSystem (A-Sys Core) 
 Gamified productivity app with tasks, XP progression, levels, ranks and calendar tracking.
 
-# MotionSystem (A-Sys Motion)  
+### MotionSystem (A-Sys Motion)  
 Workout tracker for stretching and running sessions with XP and rank progression.
 
 ## Technologies
