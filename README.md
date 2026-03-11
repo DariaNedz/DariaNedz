@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Daria
 
-<!--
-**DariaNedz/DariaNedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Computer Science student.
 
-Here are some ideas to get you started:
+I develop mobile applications in C# using .NET MAUI as part of the A-Sys system — a set of applications designed for productivity and progress tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Projects
+
+# ArchitectSystem (A-Sys Core) 
+Gamified productivity app with tasks, XP progression, levels, ranks and calendar tracking.
+
+# MotionSystem (A-Sys Motion)  
+Workout tracker for stretching and running sessions with XP and rank progression.
+
+## Technologies
+
+Mobile App
+- C#
+- .NET MAUI
+- XAML
+
+Web
+- HTML
+- CSS
+- JavaScript
+- PHP
+
+Databases
+- SQL
