@@ -14,16 +14,16 @@ Workout tracker for stretching and running sessions with XP and rank progression
 
 ## Technologies
 
-Mobile App
+### Mobile App
 - C#
 - .NET MAUI
 - XAML
 
-Web
+### Web
 - HTML
 - CSS
 - JavaScript
 - PHP
 
-Databases
+### Databases
 - SQL
