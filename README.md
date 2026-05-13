@@ -1,29 +1,30 @@
-# Hi, I'm Daria
+Hi, I'm Daria
 
-Applied Computer Science student.
+Student focused on frontend development and databases.
 
-I develop mobile applications in C# using .NET MAUI as part of the A-Sys system — a set of applications designed for productivity and progress tracking.
+I create web applications using HTML, CSS, JavaScript, PHP and MySQL.  
+I also develop personal UI-focused projects and interactive web interfaces.
 
 ## Main Projects
 
-### ArchitectSystem (A-Sys Core) 
-Gamified productivity app with tasks, XP progression, levels, ranks and calendar tracking.
+### Resident Evil 4 Remake Character Gallery
+Frontend project with interactive character gallery, theme switching and responsive layout using JavaScript.
 
-### MotionSystem (A-Sys Motion)  
-Workout tracker for stretching and running sessions with XP and rank progression.
+### Task Manager
+Simple PHP task manager with authentication system and MySQL database.
 
 ## Technologies
 
-### Mobile App
-- C#
-- .NET MAUI
-- XAML
-
-### Web
+### Frontend
 - HTML
 - CSS
 - JavaScript
-- PHP
 
-### Databases
-- SQL
+### Backend & Databases
+- PHP
+- SQL / MySQL
+
+### Mobile & Desktop
+- C#
+- XAML
+- .NET MAUI
